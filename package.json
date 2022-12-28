@@ -1,0 +1,17 @@
+{
+  "name": "nodeone",
+  "version": "1.0.0",
+  "description": "node tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Code-Weiser",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
